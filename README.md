@@ -42,8 +42,3 @@ This repository contains Java implementations of routing and resource allocation
 2. Ensure that any required MILP/LP solver libraries (e.g., CPLEX, Gurobi) are installed if used.
 3. Modify input parameters (e.g., capacity, route sets) in `main()` as needed.
 4. Compile and run.
-
-## 📄 License
-
-This project is intended for academic use only, as part of the **CND Lab course**.
-
